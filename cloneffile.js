@@ -1,1 +1,1 @@
-let clonedfile;
+let clonedfile=ksakdkaskasdk;
