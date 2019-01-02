@@ -1,2 +1,2 @@
 var features;
-var masterfeature;
+var megafeatures="Mega";
